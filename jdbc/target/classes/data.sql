@@ -1,0 +1,1 @@
+insert into students (id, `name`, `s_group`, `course`, evaluation) values (1, '', '', '', 0);
